@@ -1,15 +1,15 @@
-Débuter avec CakePHP
-####################
+CakePHP Overview
+################
 
-Bienvenue dans le CookBook, le manuel du framework d'applications web,
-CakePHP. Avec CakePHP, développer c'est du gâteau !
+Welcome to the Cookbook, the manual for the CakePHP web application
+framework that makes developing a piece of cake!
 
-Lire ce manuel suppose que vous ayez une connaissance générale de PHP
-et une connaissance de base de la programmation orientée-objet (POO).
-Certaines fonctionnalités livrées avec le framework entraînent l'utilisation
-de technologies différentes - comme SQL, JavaScript et XML - que ce manuel ne
-tente pas d'expliquer, il indique seulement de quelle manière elles sont 
-utilisées dans ce contexte.
+This manual assumes that you have a general understanding of PHP
+and a basic understanding of object-oriented programming (OOP).
+Different functionality within the framework makes use of different
+technologies – such as SQL, JavaScript, and XML – and this manual
+does not attempt to explain those technologies, only how they are
+used in context.
 
 .. toctree::
     :maxdepth: 1
@@ -17,3 +17,8 @@ utilisées dans ce contexte.
     cakephp-overview/what-is-cakephp-why-use-it
     cakephp-overview/understanding-model-view-controller
     cakephp-overview/where-to-get-help
+
+
+.. meta::
+    :title lang=en: CakePHP Overview
+    :keywords lang=en: web application framework,model view controller,object oriented programming,piece of cake,cookbook,functionality,xml,cakephp

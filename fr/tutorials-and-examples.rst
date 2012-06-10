@@ -1,14 +1,13 @@
-Tutoriels et exemples
-#####################
+Tutorials & Examples
+####################
 
-Dans cette section, vous pouvez découvrir des applications CakePHP
-typiques afin de voir comment toutes les pièces s'assemblent.
+In this section, you can walk through typical CakePHP applications
+to see how all of the pieces come together.
 
-Sinon, vous pouvez vous référer à la
-`Forge de CakePHP <http://cakeforge.org/>`_ (CakeForge) ainsi que la
-`Boulangerie <http://bakery.cakephp.org/>`_ (Bakery) pour des applications
-et composants existants. N'oubliez pas que vous pouvez également voir
-`le code source de ce livre de cuisine <http://thechaw.com/cakebook/>`_ (Cookbook).
+Alternatively, you can refer to the non-official CakePHP plugin repository
+`CakePackages <http://cakepackages.com/>`_ and the
+`Bakery <http://bakery.cakephp.org/>`_ for existing applications
+and components.
 
 .. toctree::
     :glob:
@@ -16,5 +15,11 @@ et composants existants. N'oubliez pas que vous pouvez également voir
 
     tutorials-and-examples/blog/blog
     tutorials-and-examples/blog/part-two
+    tutorials-and-examples/blog-auth-example/auth
     tutorials-and-examples/simple-acl-controlled-application/simple-acl-controlled-application
     tutorials-and-examples/simple-acl-controlled-application/part-two
+
+
+.. meta::
+    :title lang=en: Tutorials & Examples
+    :keywords lang=en: application tutorials,glob,bakery,repository,applications,blog,acl
